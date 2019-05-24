@@ -1,0 +1,26 @@
+header.masthead{
+	background-image:url(../img/vuelo-fidji.jpg);
+}
+#video{
+	position:relative;
+	
+}
+#video button{
+	position:absolute;
+	top:20%;
+	left:40%;
+}
+h1{
+	font-family: 'Arbutus', cursive;
+}
+.btn-primary {
+    background-color: green;
+    border-color: #ff0040;
+}
+ footer a .fab{
+	color:purple;
+	background-color:white;
+	font-size:3em;
+	border-radius:50%;
+	padding:.3em;
+}
